@@ -10,14 +10,14 @@ To apply different thresholding techniques
 To perform color-based image segmentation
 To visualize and compare all results clearly
 
-Tools & Libraries Used
+# Tools & Libraries Used
 Python
 OpenCV (cv2)
 NumPy
 Matplotlib
 Google Colab
 
-Methods Implemented
+# Methods Implemented
 1. Grayscale Conversion
 The uploaded image is converted from RGB format to grayscale to simplify processing for thresholding operations.
 
@@ -34,10 +34,9 @@ K-Means Clustering is applied with different cluster values:
 k = 2
 k = 3
 k = 4
-
 Mean Shift Segmentation is used to smooth the image and group similar color regions.
 
-Results Visualization
+# Results Visualization
 All outputs are displayed using Matplotlib in a single figure containing multiple subplots, including:
 Original image
 Grayscale image
@@ -46,17 +45,17 @@ K-Means segmented images
 Mean-shift segmented image
 Grayscale images are shown in gray, while color images are displayed in RGB format.
 
-How to Run
+# How to Run
 Open Google Colab
 Copy and paste the provided Python script into a notebook cell
 Run the cell and upload an image when prompted
 View the segmentation and thresholding results
 
-Applications
+# Applications
 Medical image analysis
 Object detection
 Image segmentation tasks
 Computer vision preprocessing
 
-Conclusion
+# Conclusion
 This task highlights the effectiveness of various thresholding and segmentation techniques in digital image processing. By comparing different methods, we can understand how each technique performs under varying image conditions.
