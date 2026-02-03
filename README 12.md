@@ -1,9 +1,9 @@
-\\ DIP Task 12 – Image Thresholding and Segmentation
+# DIP Task 12 – Image Thresholding and Segmentation
 
-Overview
+# Overview
 This project demonstrates fundamental image processing techniques used in Digital Image Processing (DIP). The main goal is to perform different thresholding and segmentation methods on an image using Python in Google Colab and visualize the results in a single figure.
 
-Objectives
+# Objectives
 To upload and process an image interactively in Google Colab
 To convert a color image into grayscale
 To apply different thresholding techniques
